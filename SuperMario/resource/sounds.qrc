@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/death.wav</file>
+        <file>sounds/bgm0.wav</file>
+        <file>sounds/button.wav</file>
+        <file>sounds/over.wav</file>
+        <file>sounds/pause.wav</file>
+        <file>sounds/score.wav</file>
+        <file>sounds/sfx_point.wav</file>
+        <file>sounds/sfx_die.wav</file>
+        <file>sounds/sfx_hit.wav</file>
+        <file>sounds/sfx_swooshing.wav</file>
+        <file>sounds/sfx_wing.wav</file>
+    </qresource>
+</RCC>
